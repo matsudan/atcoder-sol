@@ -1,6 +1,3 @@
 a, b = map(int, input().split())
 
-if a*b % 2 != 0:
-    print('Odd')
-else:
-    print('Even')
+print('Odd') if a*b % 2 != 0 else print('Even')
