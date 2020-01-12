@@ -1,2 +1,2 @@
 # atcoder-sol
-AtCoder
+AtCoderの解答
