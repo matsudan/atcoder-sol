@@ -1,2 +1,2 @@
-# atcoder
+# atcoder-sol
 AtCoder
